@@ -12,7 +12,9 @@ I recently graduated from the University of Michigan with a BS in Computer Scien
 - working on a C++ battery simulator used to select the most efficient battery cell out of a group of candidates for the Michigan Solar Car Team.
 - designing an "Automated Glockenspiel" alongside 2 teammates; this was a xylophone like instrument that played more than a dozen songs, implemented using an STM32, linear solenoid, and LCD display
 
-I'm eager to find projects and roles where I can use programming skills in the areas of design verification, embedded systems, and RTL design. 
+I'm eager to find projects and roles where I can use programming skills in the areas of design verification, GPU programming, and embedded systems. 
+
+SKILLS: C/C++, Python, Verilog/SystemVerilog, JavaScript, SQL, MATLAB, HTML, CSS 
 
 
 A data-driven personal website
