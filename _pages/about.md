@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from the University of Michigan with a BS in Computer Science, where I took a particularly took an interest in computer architecture and embedded systems. My favorite projects include:  
+I recently graduated from the University of Michigan with a BS in Computer Science, where I took an interest in computer architecture and embedded systems. My favorite projects include:  
 - implementing a MIPS-R10000 style out-of-order processor in SystemVerilog alongside 4 teammates.
 - working on a C++ battery simulator used to select the most efficient battery cell out of a group of candidates for the Michigan Solar Car Team.
 - designing an "Automated Glockenspiel" alongside 2 teammates; this was a xylophone like instrument that played more than a dozen songs, implemented using an STM32, linear solenoid, and LCD display
@@ -24,7 +24,7 @@ Miscellaneous and personal interests
 
 - While at Michigan, I contributed to research in a neuroscience lab studying the mammalian auditory system. In this role, I curated  neuronal imagng data contianing images of the inferior colliculus of mice collected from behavioral experiments.
 
--In my free time, I enjoy playing music, watching sports, and reading novels. I played the Alto Saxophone on the Michigan Basketball Band this past season which was tremendous fun!
+- In my free time, I enjoy playing music, watching sports, and reading novels. I played the Alto Saxophone on the Michigan Basketball Band this past season which was lots of fun! To keep up my interest in reading and writing, I briefly wrote news pieces for the Michigan Daily as a Staff Reporter. Nowadays, I just read books. 
 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the reaof depository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
