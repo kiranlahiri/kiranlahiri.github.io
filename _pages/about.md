@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Experience and Interests"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ I'm eager to find projects and roles where I can use programming skills in the a
 SKILLS: C/C++, Python, Verilog/SystemVerilog, JavaScript, SQL, MATLAB, HTML, CSS 
 
 
-Miscellaneous and personal interests
+Miscellaneous
 ======
 
 - I am currently trying my hand at learning CUDA. EECS470 at Michigan sparked my interest in computer architecture and hardware description languages. Learning GPU programming appears to be a great way of applying my programming skills to the area of computer architecture. I'm excited to update my progress on the blog page of this site as I make progress in my learning.
