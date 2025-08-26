@@ -22,7 +22,7 @@ repository               : "kiranlahiri/kiranlahiri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_3176.jpg"
   name             : "Kiran Lahiri"
   pronouns         : # example: "she/her"  
   bio              : "Recent CS grad of the University of Michigan. Looking for roles in software engineering."
