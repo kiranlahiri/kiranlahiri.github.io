@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+layout: single
+title: "Automated Glockenspiel"
 collection: portfolio
+date: 2025-08-27
+author_profile: false
+excerpt: "Short demo video of Automated Glockenspiel from EECS373. Credit to Phillip Zacharoudis and Peiyu Wang"
+header:
+  # thumbnail shown on /portfolio/ (YouTube preview)
+  teaser: https://img.youtube.com/vi/OP64JCbymXw/hqdefault.jpg
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+{% include video id="OP64JCbymXw" provider="youtube" %}
+
+**What this is:**  
+Brief description of the project here (what it does, stack, results, link to code).
