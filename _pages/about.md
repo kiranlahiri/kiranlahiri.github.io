@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Experience and Interests"
+title: "Kiran Lahiri"
 author_profile: true
 redirect_from: 
   - /about/
