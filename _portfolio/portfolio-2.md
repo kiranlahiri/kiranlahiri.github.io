@@ -8,7 +8,7 @@ excerpt: "Final write-up of my 2-way superscalar, out-of-order MIPS R10K-style C
 external_url: https://drive.google.com/file/d/1UiYS_REJDML9809AyfCAEljxD0NIjoIG/view?usp=sharing
 # Optional thumbnail on the /portfolio/ list:
 header:
-   teaser: /images/470thumbnail.jpg
+   teaser: /images/470thumbnail.png
 ---
 
 <p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
