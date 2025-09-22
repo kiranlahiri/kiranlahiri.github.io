@@ -26,7 +26,7 @@ Professional Experience
 Miscellaneous
 ======
 
-- I am currently trying my hand at learning CUDA. EECS470 at Michigan sparked my interest in computer architecture and hardware description languages. Learning GPU programming enables me to apply my programming skills in the area of computer architecture, which excites me very much. I look forward to update my progress on the blog page of this site as I make progress in my learning.
+- I am currently trying my hand at learning CUDA. EECS470 at Michigan sparked my interest in computer architecture and hardware description languages. Learning GPU programming enables me to apply my programming skills in the area of computer architecture, which excites me very much. 
 
 - While at Michigan, I contributed to research in a neuroscience lab studying the mammalian auditory system. In this role, I curated  neuronal imagng data contianing images of the inferior colliculus of mice collected from behavioral experiments.
 
