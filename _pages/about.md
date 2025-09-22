@@ -16,6 +16,12 @@ I'm eager to find projects and roles where I can use programming skills in the a
 
 SKILLS: C/C++, Python, Verilog/SystemVerilog, JavaScript, SQL, MATLAB, HTML, CSS 
 
+Professional Experience
+======
+
+- Cantor Fitzgerald - June 2024 to August 2024 - Technology Intern
+- Lynred-USA - May 2023 to August 2023 - Engineering Assistant
+- Mathnasium - June 2021 to August 2021 - Math Tutor
 
 Miscellaneous
 ======
