@@ -10,7 +10,13 @@ header:
   teaser: https://img.youtube.com/vi/OP64JCbymXw/hqdefault.jpg
 ---
 
-{% include video id="OP64JCbymXw" provider="youtube" %}
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OP64JCbymXw"
+  title="YouTube video" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 **What this is:**  
 Brief description of the project here (what it does, stack, results, link to code).
