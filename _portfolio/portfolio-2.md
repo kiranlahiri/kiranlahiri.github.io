@@ -7,8 +7,8 @@ author_profile: false
 excerpt: "Final write-up of my 2-way superscalar, out-of-order MIPS R10K-style CPU (BTB, predictor, LSQ, etc.)."
 external_url: https://drive.google.com/file/d/1UiYS_REJDML9809AyfCAEljxD0NIjoIG/view?usp=sharing
 # Optional thumbnail on the /portfolio/ list:
-# header:
-#   teaser: /images/portfolio/eecs470-thumb.jpg
+header:
+   teaser: /images/470thumbnail.jpg
 ---
 
 <p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
