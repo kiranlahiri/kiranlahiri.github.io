@@ -16,6 +16,8 @@ Exploring CUDA programming and performance optimization for ML workloads
 
 Background:
 
+Built FinCanon, a portfolio analysis tool with RAG pipeline using LangChain and Qdrant to query embedded finance research (Markowitz, Sharpe, Fama-French, Black-Scholes)
+
 Designed out-of-order MIPS processor in SystemVerilog (team project)
 
 Built battery simulator for Michigan Solar Car Team using C++
