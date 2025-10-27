@@ -35,7 +35,6 @@ Professional Experience
 
 - Cantor Fitzgerald - June 2024 to August 2024 - Technology Intern
 - Lynred-USA - May 2023 to August 2023 - Engineering Assistant
-- Mathnasium - June 2021 to August 2021 - Math Tutor
 
 
 
