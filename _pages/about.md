@@ -11,7 +11,8 @@ Software engineer focused on systems programming and AI infrastructure. Recent g
 
 Current work:
 
-Building an inference server for large language models, optimizing GPU utilization and request batching
+Building an inference server for large language models, optimizing GPU     utilization and request batching
+
 Exploring CUDA programming and performance optimization for ML workloads
 
 Background:
