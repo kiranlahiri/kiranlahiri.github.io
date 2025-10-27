@@ -1,16 +1,22 @@
 ---
 layout: single
-title: "EECS 470 — R10K-style OoO CPU: Project Report"
+title: "Automated Glockenspiel"
 collection: portfolio
 date: 2025-08-27
 author_profile: false
-excerpt: "Final write-up of my 2-way superscalar, out-of-order MIPS R10K-style CPU. Credit to Ethan Sanders, Justin Shin, Sam Stchur, Cindy Yu."
-external_url: https://drive.google.com/file/d/1UiYS_REJDML9809AyfCAEljxD0NIjoIG/view?usp=sharing
-# Optional thumbnail on the /portfolio/ list:
+excerpt: "Short demo video of Automated Glockenspiel from EECS373. Credit to Phillip Zacharoudis and Peiyu Wang"
 header:
-   teaser: /images/470thumbnail.png
+  # thumbnail shown on /portfolio/ (YouTube preview)
+  teaser: https://img.youtube.com/vi/OP64JCbymXw/hqdefault.jpg
 ---
 
-<p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
-  Open the report (Google Drive)
-</a></p>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/OP64JCbymXw"
+  title="YouTube video" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+**What this is:**  
+Brief description of the project here (what it does, stack, results, link to code).

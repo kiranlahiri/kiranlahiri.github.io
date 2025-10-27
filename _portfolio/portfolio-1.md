@@ -1,22 +1,13 @@
 ---
 layout: single
-title: "Automated Glockenspiel"
+title: "FinCanon"
 collection: portfolio
-date: 2025-08-27
+date: 2025-10-27
 author_profile: false
-excerpt: "Short demo video of Automated Glockenspiel from EECS373. Credit to Phillip Zacharoudis and Peiyu Wang"
-header:
-  # thumbnail shown on /portfolio/ (YouTube preview)
-  teaser: https://img.youtube.com/vi/OP64JCbymXw/hqdefault.jpg
+excerpt: "FinCanon is a portfolio analysis tool that combines quantitative metrics with RAG-powered insights from classic finance literature."
+external_url: https://fincanon.vercel.app/
+# Optional thumbnail on the /portfolio/ list:
+
 ---
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/OP64JCbymXw"
-  title="YouTube video" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
-
-**What this is:**  
-Brief description of the project here (what it does, stack, results, link to code).
+FinCanon is a full-stack web application that analyzes investment portfolios using advanced financial metrics including Sharpe ratio, maximum drawdown, rolling performance, and efficient frontier detection. The tool integrates a Retrieval-Augmented Generation (RAG) system powered by 10 seminal finance papers (Markowitz, Sharpe, Fama-French, Black-Scholes, etc.) to provide portfolio-aware insights grounded in academic research. Built with React, FastAPI, LangChain, and Qdrant vector database, the application is deployed on Vercel and Railway with real-time data visualization and personalized investment analysis.

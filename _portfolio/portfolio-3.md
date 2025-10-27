@@ -1,13 +1,16 @@
 ---
 layout: single
-title: "FinCanon"
+title: "EECS 470 — R10K-style OoO CPU: Project Report"
 collection: portfolio
-date: 2025-10-27
+date: 2025-08-27
 author_profile: false
-excerpt: "FinCanon is a portfolio analysis tool that combines quantitative metrics with RAG-powered insights from classic finance literature."
-external_url: https://fincanon.vercel.app/
+excerpt: "Final write-up of my 2-way superscalar, out-of-order MIPS R10K-style CPU. Credit to Ethan Sanders, Justin Shin, Sam Stchur, Cindy Yu."
+external_url: https://drive.google.com/file/d/1UiYS_REJDML9809AyfCAEljxD0NIjoIG/view?usp=sharing
 # Optional thumbnail on the /portfolio/ list:
-
+header:
+   teaser: /images/470thumbnail.png
 ---
 
-FinCanon is a full-stack web application that analyzes investment portfolios using advanced financial metrics including Sharpe ratio, maximum drawdown, rolling performance, and efficient frontier detection. The tool integrates a Retrieval-Augmented Generation (RAG) system powered by 10 seminal finance papers (Markowitz, Sharpe, Fama-French, Black-Scholes, etc.) to provide portfolio-aware insights grounded in academic research. Built with React, FastAPI, LangChain, and Qdrant vector database, the application is deployed on Vercel and Railway with real-time data visualization and personalized investment analysis.
+<p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
+  Open the report (Google Drive)
+</a></p>
