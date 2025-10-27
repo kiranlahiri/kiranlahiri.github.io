@@ -11,20 +11,20 @@ Software engineer focused on systems programming and AI infrastructure. Recent g
 
 Current work:
 
-Building an inference server for large language models, optimizing GPU     utilization and request batching
+-   Building an inference server for large language models, optimizing GPU  utilization and request batching
 
-Exploring CUDA programming and performance optimization for ML workloads
+-   Exploring CUDA programming and performance optimization for ML workloads
 
 Background:
 
 
-Designed out-of-order MIPS processor in SystemVerilog (team project)
+-   Designed out-of-order MIPS processor in SystemVerilog (team project)
 
-Built battery simulator for Michigan Solar Car Team using C++
+-   Built battery simulator for Michigan Solar Car Team using C++
 
-Created STM32-based automated glockenspiel with custom hardware integration
+-   Created STM32-based automated glockenspiel with custom hardware integration
 
-Built FinCanon, a portfolio analysis tool with RAG pipeline using LangChain and Qdrant to query embedded finance research 
+-   Built FinCanon, a portfolio analysis tool with RAG pipeline using LangChain and Qdrant to query embedded finance research 
 
 Interested in roles involving systems programming, GPU optimization, and AI infrastructure.
 
