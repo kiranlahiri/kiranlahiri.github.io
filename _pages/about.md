@@ -28,7 +28,7 @@ Background:
 
 Interested in roles involving systems programming, GPU optimization, and AI infrastructure.
 
-Skills: C/C++, Python, CUDA, Verilog/SystemVerilog, FastAPI, PyTorch, SQL
+Skills: C/C++, Python, Verilog/SystemVerilog, FastAPI, PyTorch, SQL
 
 Professional Experience
 ======
