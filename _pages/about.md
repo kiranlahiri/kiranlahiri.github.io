@@ -18,7 +18,8 @@ Professional Experience: Cantor Fitzgerald (Technology Intern, Summer 2024) · L
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+{% for post in sorted_portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
