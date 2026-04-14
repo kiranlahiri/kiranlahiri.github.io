@@ -9,12 +9,6 @@ redirect_from:
 
 Software engineer focused on systems programming and AI infrastructure. Recent graduate from the University of Michigan with a BS in Computer Science, specializing in computer architecture and embedded systems.
 
-Current work:
-
--   Building an inference server for large language models, optimizing GPU  utilization and request batching
-
--   Exploring CUDA programming and performance optimization for ML workloads
-
 Background:
 
 
