@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Software engineer focused on systems programming and AI infrastructure. Recent graduate from the University of Michigan with a BS in Computer Science.
+Software Engineer
 
-Skills: C/C++, Python, Verilog/SystemVerilog, FastAPI, PyTorch, SQL
+BS Computer Science, University of Michigan
 
 Professional Experience: Cantor Fitzgerald (Technology Intern, Summer 2024) · Lynred-USA (Engineering Assistant, Summer 2023)
 
