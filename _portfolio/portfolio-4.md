@@ -5,7 +5,6 @@ collection: portfolio
 date: 2026-04-22
 author_profile: false
 excerpt: "Arbiter is a distributed streaming system for monitoring cross-exchange arbitrage signals in near real time."
-link: http://159.89.95.151:8080/
 external_url: https://github.com/kiranlahiri/arbiter
 ---
 
@@ -20,7 +19,7 @@ Built in Go with Kafka, Docker Compose, Railway Postgres, and public exchange We
 
 ---
 
-## Arbiter: Building A Distributed Market-Data Arbitrage Pipeline
+## [Arbiter: Building A Distributed Market-Data Arbitrage Pipeline](http://159.89.95.151:8080/)
 
 ### What It Does
 
