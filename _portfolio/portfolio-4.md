@@ -5,12 +5,14 @@ collection: portfolio
 date: 2026-04-22
 author_profile: false
 excerpt: "Arbiter is a distributed streaming system for monitoring cross-exchange arbitrage signals in near real time."
+link: http://159.89.95.151:8080/
 external_url: https://github.com/kiranlahiri/arbiter
 ---
 
-<p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
-  GitHub: kiranlahiri/arbiter
-</a></p>
+<p>
+  <a class="btn btn--primary" href="http://159.89.95.151:8080/" target="_blank" rel="noopener">View Live</a>
+  <a class="btn" href="{{ page.external_url }}" target="_blank" rel="noopener">GitHub: kiranlahiri/arbiter</a>
+</p>
 
 Arbiter is a distributed streaming system for monitoring cross-exchange arbitrage signals in near real time. The project ingests live BTC-USD market data from Coinbase and Kraken, publishes exchange-specific events into Kafka using Protobuf, normalizes them into a shared schema, detects spread opportunities across venues, persists emitted signals to Postgres, and serves them through a live API and browser dashboard.
 
@@ -50,6 +52,8 @@ The pipeline currently does six things:
 6. **Dashboard** — the browser dashboard loads recent signal history over REST, receives live updates over WebSocket, and presents the signal stream as a monitoring surface rather than a raw terminal feed.
 
 The result is a working event-driven platform that ingests live market data, transforms it through multiple services, persists its outputs, and exposes them through a public-facing interface.
+
+![Arbiter dashboard showing live signal feed](/images/Screenshot from 2026-04-27 13-46-00.png)
 
 ### Tech Stack
 
