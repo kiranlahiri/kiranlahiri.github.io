@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Projects"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,8 @@ BS Computer Science, University of Michigan
 Professional Experience: Cantor Fitzgerald (Technology Intern, Summer 2024) · Lynred-USA (Engineering Assistant, Summer 2023)
 
 ---
+
+## Projects
 
 {% include base_path %}
 
