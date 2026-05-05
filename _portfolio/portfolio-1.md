@@ -10,11 +10,16 @@ external_url: https://fincanon.vercel.app/
 
 ---
 
-<p><strong>EDIT: QDRANT SUBSCRIPTION EXPIRED, PRODUCTION WILL BE UPDATED ASAP</strong></p>
-
 <p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
   https://fincanon.vercel.app/
 </a></p>
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/ZmbTEyNk9d4"
+  title="FinCanon demo" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 FinCanon is a full-stack web application that analyzes investment portfolios using advanced financial metrics including Sharpe ratio, maximum drawdown, rolling performance, and efficient frontier detection. The tool integrates a Retrieval-Augmented Generation (RAG) system powered by 10 seminal finance papers (Markowitz, Sharpe, Fama-French, Black-Scholes, etc.) to provide portfolio-aware insights grounded in academic research. Built with React, FastAPI, LangChain, and Qdrant vector database, the application is deployed on Vercel and Railway with real-time data visualization and personalized investment analysis.
