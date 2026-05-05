@@ -16,7 +16,3 @@ header:
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
-
-
-**What this is:**  
-Brief description of the project here (what it does, stack, results, link to code).
