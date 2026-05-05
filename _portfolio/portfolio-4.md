@@ -9,9 +9,15 @@ external_url: https://github.com/kiranlahiri/arbiter
 ---
 
 <p>
-  <a class="btn btn--primary" href="http://159.89.95.151:8080/" target="_blank" rel="noopener">View Live</a>
   <a class="btn" href="{{ page.external_url }}" target="_blank" rel="noopener">GitHub: kiranlahiri/arbiter</a>
 </p>
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/xwwSDpZmQ9g"
+  title="Arbiter demo" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Arbiter is a distributed streaming system for monitoring cross-exchange arbitrage signals in near real time. The project ingests live BTC-USD market data from Coinbase and Kraken, publishes exchange-specific events into Kafka using Protobuf, normalizes them into a shared schema, detects spread opportunities across venues, persists emitted signals to Postgres, and serves them through a live API and browser dashboard.
 
@@ -19,7 +25,7 @@ Built in Go with Kafka, Docker Compose, Railway Postgres, and public exchange We
 
 ---
 
-## [Arbiter: Building A Distributed Market-Data Arbitrage Pipeline](http://159.89.95.151:8080/)
+## Arbiter: Building A Distributed Market-Data Arbitrage Pipeline
 
 ### What It Does
 
