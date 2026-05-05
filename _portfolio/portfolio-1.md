@@ -10,6 +10,8 @@ external_url: https://fincanon.vercel.app/
 
 ---
 
+<p><strong>EDIT: QDRANT SUBSCRIPTION EXPIRED, PRODUCTION WILL BE UPDATED ASAP</strong></p>
+
 <p><a class="btn btn--primary" href="{{ page.external_url }}" target="_blank" rel="noopener">
   https://fincanon.vercel.app/
 </a></p>
